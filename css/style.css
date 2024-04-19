@@ -1,0 +1,16 @@
+.my-witdh{
+    width: calc((100% / 7) - 0.5rem) ; 
+    background-color: greenyellow;
+    border-radius: 15px;
+    font-size: 25px;
+    padding: 3.5rem;
+}
+.fizz{
+    background-color: aquamarine;
+}
+.buzz{
+    background-color: orange;
+}
+.size{
+    font-size: 60px;
+}

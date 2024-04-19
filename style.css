@@ -1,8 +1,0 @@
-.my-witdh{
-    width: calc((100% / 7) - 1rem) ;
-    height: 50px;
-    background-color: greenyellow;
-    border-radius: 15px;
-    font-size: 25px;
-    padding: 0.5rem;
-}
