@@ -11,6 +11,10 @@
 .buzz{
     background-color: orange;
 }
+.fizzbuzz{
+    background-color: red;
+    padding-left: 2.5rem;
+}
 .size{
     font-size: 60px;
 }
