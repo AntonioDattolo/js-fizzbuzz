@@ -11,7 +11,7 @@ for (let i = 1; i <= 100; i++) {
         newItem.classList.add('my-witdh');  
     }
     else if (i % 5 == 0 && i % 3 == 0) {
-        console.log("buzz");
+        console.log("fizzbuzz");
         const newItem = document.createElement('h6');
         container.append(newItem);
         newItem.innerHTML = "FizzBuzz";
